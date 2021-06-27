@@ -1,6 +1,6 @@
 # Jogo da Forca com Python
 
-### Projeto desenvolvido para o curso *Python 3: Avançando na linguagem* com o instrutor Nico Steppat, utilizando o *PyCharm*
+### Projeto desenvolvido para o curso *Python 3: Avançando na linguagem* com o instrutor Nico Steppat (Alura), utilizando o *PyCharm*
 
 
 &nbsp;
