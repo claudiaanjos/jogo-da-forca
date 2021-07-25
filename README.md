@@ -1,11 +1,11 @@
 # Jogo da Forca com Python
 
-### Projeto desenvolvido para o curso *Python 3: Avançando na linguagem* com o instrutor Nico Steppat (Alura), utilizando o *PyCharm*
+### Projeto desenvolvido para o curso *Python 3: Avançando na linguagem* com o instrutor Nico Steppat (Alura)
 
 
-&nbsp;
+### 📚  Descrição
 
-O jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra secreta, tendo como dica o número de letras representado pelos traços em branco. 
+O jogo da forca é um jogo em que o usuário tem que acertar qual é a palavra secreta, tendo como dica o número de letras representado pelos traços em branco. 
 A palavra secreta é sorteada da lista do arquivo *palavras.txt*.
 
 
@@ -18,23 +18,30 @@ A palavra secreta é sorteada da lista do arquivo *palavras.txt*.
 
 A cada letra errada, é desenhado uma parte do corpo do enforcado. O jogo termina ou com o acerto da palavra ou com o término do preenchimento das partes corpóreas do enforcado. 
 
-
-&nbsp;
-
-Quando o jogador perde:
-
-
-&nbsp;
+Quando o usuário perde:
 
 <img src="img/perdeu.png" alt="Imagem do final do jogo, quando o jogador perde"/>
 
-
 &nbsp;
 
-Quando o jogador ganha:
+Quando o usuário ganha:
 
-
-&nbsp;
 
 <img src="img/ganhou.png" alt="Imagem do final do jogo, quando o jogador ganha"/>
+
+### 🖥️  Instalações
+
+- [Python](https://www.python.org/)
+- [Pycharm - Community](https://www.jetbrains.com/pt-br/pycharm/download/)
+
+### ⚒️  Tecnologias
+
+- [Python](https://www.python.org/)
+
+&nbsp;
+
+
+<a href="https://www.linkedin.com/in/claudia-nogueira-dos-anjos-b71726215/" target="_blank">
+        <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-nogueira-dos-anjos-093407180/">
+</a>
 
