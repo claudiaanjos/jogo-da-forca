@@ -1,8 +1,5 @@
 # Jogo da Forca com Python
 
-### Projeto desenvolvido para o curso *Python 3: Avançando na linguagem* com o instrutor Nico Steppat (Alura)
-
-
 ### 📚  Descrição
 
 O jogo da forca é um jogo em que o usuário tem que acertar qual é a palavra secreta, tendo como dica o número de letras representado pelos traços em branco. 
