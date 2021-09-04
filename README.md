@@ -26,14 +26,11 @@ Quando o usuário ganha:
 
 <img src="img/ganhou.png" alt="Imagem do final do jogo, quando o jogador ganha"/>
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Python](https://www.python.org/)
 - [Pycharm - Community](https://www.jetbrains.com/pt-br/pycharm/download/)
 
-### ⚒️  Tecnologias
-
-- [Python](https://www.python.org/)
 
 &nbsp;
 
